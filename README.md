@@ -1,2 +1,4 @@
 # LearnGIT
-Test Repo
+
+```javascript
+console.log('Hello world');
